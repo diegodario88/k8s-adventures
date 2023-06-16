@@ -1,6 +1,6 @@
 ## HELM 
 
-(Helm)[https://helm.sh/] is a package manager for Kubernetes. We will use it to deploy our Kubernetes Dashboard and a sample-app written in NodeJS.
+[Helm](https://helm.sh/) is a package manager for Kubernetes. We will use it to deploy our Kubernetes Dashboard and a sample-app written in NodeJS.
 
 #### Install it with your distro PM
 
